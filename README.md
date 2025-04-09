@@ -10,14 +10,15 @@ However, please feel free to reach out to me via:
 
 📂 Project Highlights
 Here are some of my notable projects (If you want access to any of them, don’t hesitate to contact me!):
-- Fialka Website v1: Developed for architectural firm Fialka Architects
-- Fialka Website v2: New and improved version of the initial website (www.fialkabd.com)
-- VC Compiler: Compiler for a subset of C with some Java features (VC) written in Java (in progress)
-- Cheese Database: PostgreSQL Queries and Functions on a cheese database (dump file for the database included)
-- Grip: A simplified GitHub-like version control system written in Python 3
+- Fialka Website v1: Developed for architectural firm Fialka Architects.
+- Fialka Website v2: New and improved version of the initial website (www.fialkabd.com).
+- VC Compiler: Compiler for a subset of C with some Java features (VC) written in Java (in progress).
+- Cheese Database: PostgreSQL Queries and Functions on a cheese database (dump file for the database included).
+- Grip: A simplified GitHub-like version control system written in Python 3.
 - Quote Generator: Simple, pretty quote generator created for use at the Westfield Sydney Suite.
-- R-buoy: A simplified version of Rsync written in C
+- R-buoy: A simplified version of Rsync written in C.
 - Give: A simplified version of the Give utility used for assignment submissions written in POSIX compliant Dash.
-- Dungeon Mania: exploring OOP Design Principles (Group Project) by working on the Dungeon Mania minigame
+- Dungeon Mania: exploring OOP Design Principles (Group Project) by working on the Dungeon Mania minigame.
+- Roadmaps: C program that utilizes fundamental data structures and algorithms to implement navigation software for an "interstellar planet".
 - Carriage Simulator: train carriage simulator program utilizing the creation, manipulation and usage of linked lists to solve problems.
 - Breakout: A simplified version of the Breakout game written in Mips Assembly.
