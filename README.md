@@ -1,26 +1,122 @@
 ## Hi there 👋
 
-I’m Areeq Imran, a passionate Computer Science student at UNSW with a keen interest in software development, UX design, and creating efficient solutions.
+I’m Areeq Imran, a passionate, final year Computer Science student at UNSW Sydney.
 
-Welcome to my GitHub repository. My projects unfortunately have to be kept in private repositories due to university policies.
+I have a keen interest in UI/UX Design, Full Stack Development, and exploring low-level programming through languages like C++ and Rust.
 
-However, please feel free to reach out to me via:
-- Email: imranareeq@gmail.com
-- LinkedIn: www.linkedin.com/in/areeqimran
+## Technologies:
+### Languages
+* TypeScript / JavaScript
+* Python
+* C++
+* Rust
 
-📂 Project Highlights
-Here are some of my notable projects (If you want access to any of them, don’t hesitate to contact me!):
-- Fialka Website v1: Developed for architectural firm Fialka Architects.
-- Fialka Website v2: New and improved version of the initial website (www.fialkabd.com).
-- Toohak (Group Project): Backend web application built with TypeScript, including HTTP request handling (GET, PUT, etc.), unit testing, code reviews, and Git collaboration, modelled                             after Kahoot
-- VC Compiler: Compiler for a subset of C with some Java features (VC) written in Java (in progress).
-- Cheese Database: PostgreSQL Queries and Functions on a cheese database (dump file for the database included).
-- Pokemon Databse: A querying system for a Pokémon database using PostgreSQL and Python (psycopg2), retrieving data on evolutionary chains, types, stats, and requirements. It includes                       complex SQL queries and a Python interface to format the results into readable output.
-- Grip: A simplified GitHub-like version control system written in Python 3.
-- Quote Generator: Simple, pretty quote generator created for use at the Westfield Sydney Suite.
-- R-buoy: A simplified version of Rsync written in C.
-- Give: A simplified version of the Give utility used for assignment submissions written in POSIX compliant Dash.
-- Dungeon Mania (Group Project): exploring OOP Design Principles, code smells, codebase refactoring, design by contract by working on the Dungeon Mania minigame.
-- Roadmaps: C program that utilizes fundamental data structures and algorithms to implement navigation software for an "interstellar planet".
-- Carriage Simulator: train carriage simulator program utilizing the creation, manipulation and usage of linked lists to solve problems.
-- Breakout: A simplified version of the Breakout game written in Mips Assembly.
+### Frameworks
+* React
+* Tailwind
+* Flask
+* Express
+
+### Databases
+* PostgreSQL
+
+## 📂 Project Highlights
+> **Note:** Some of these projects are not publicly available due to university policies, but access can be provided upon request.
+
+<details>
+  <summary><strong>Fialka Architects Website</strong> — NextJS Static Site, TailwindCSS — [View Here 🔗](https://www.fialkabd.com)</summary>
+
+- Built a fully responsive static website using **Next.js** and **TailwindCSS**
+- Implemented a clean UI/UX design for architecture portfolio
+- Deployed and optimized for fast load times
+
+</details>
+
+<details>
+  <summary><strong>CollabMate — The Smart Student Group Project Tracker</strong> — React, Tailwind, Flask, PostgreSQL</summary>
+
+- Full-stack web application to manage student projects (**group project**)
+- My contributions: **frontend design**, **database design**, **API integrations**, and selected **backend & frontend implementations**
+- **Frontend:** React + TailwindCSS for interactive dashboards
+- **Backend:** Flask + PostgreSQL handling user authentication and project data
+- Features include task assignment, progress tracking, and notifications
+
+### UI Highlights / Preview
+![CollabMate Login](./assets/collabmate/Login%20Page%204.0.png)
+![CollabMate Landing Page](./assets/collabmate/Landing%20Page%205.0.png)
+![CollabMate Project Dashboard](./assets/collabmate/Project%20Dashboard%204.0.png)
+![CollabMate Kanban Board](./assets/collabmate/Kanban%20Board%204.0.png)
+![CollabMate Mates Administration](./assets/collabmate/Mates%20-%20Assign%20Roles%20(Admin%20View)%204.0.png)
+![CollabMate Summary Export](./assets/collabmate/summarypage.png)
+
+</details>
+
+<details>
+  <summary><strong>Concurrent HTTP/1.1 Proxy</strong> — Python3</summary>
+
+- Multi-client concurrent HTTP/1.1 proxy supporting GET, POST, HEAD, CONNECT
+- Implemented connection persistence, logging, and multithreading
+- Built using only low-level socket programming in Python
+
+</details>
+
+<details>
+  <summary><strong>Filtered String View</strong> — C++</summary>
+
+- Implemented a **filtered string view** providing a read-only view into existing character data  
+- Supports optional **predicate-based filtering** of visible characters  
+- Wrote **bidirectional iterators** for traversal  
+- Ensured **const-correctness, exception safety, and modern C++ practices**  
+
+</details>
+
+<details>
+  <summary><strong>General Directed Weighted Graph</strong> — C++</summary>
+
+- Implemented a generic directed weighted graph using **templates**  
+- Wrote **bidirectional iterators** for nodes and edges  
+- Utilized **dynamic polymorphism** for weighted/unweighted edges  
+- Applied **modern C++ practices**, including RAII and smart pointers  
+
+</details>
+
+## 🔨 Currently Building
+
+<details>
+<summary><strong>The Star Slayer Project — (Name TBD)</strong> - React, PhaserJS</summary>
+
+- Developing a **story-driven project/game** with interactive gameplay to educate on AI literacy
+- Focus on **mechanics, design, and systems architecture**  
+- Early-stage: core concepts and structure implemented
+- Public Repository after completion of first MVP.
+
+</details>
+
+<details>
+<summary><strong>Cumulonimbus — The Smart Study Buddy</strong> - Electron, React, TypeScript</summary>
+
+- Local **study management app** using SQLite for embedded storage  
+- Features: **task tracking, study sessions, progress monitoring, AI quizzes and flash cards**  
+- Focused on **user-friendly UI, local-first design, and lightweight architecture**  
+- Open source after completion of first MVP.
+
+### UI Mockup / Preview
+![Cumulonimbus Dashboard](./assets/cumulonimbus/Home%20_%20Dashboard.png)
+![Cumulonimbus Course Overview](./assets/cumulonimbus/Course%20Page%20_%20Overview.png)
+![Cumulonimbus Notes](./assets/cumulonimbus/Course%20Page%20_%20Notes.png)
+![Cumulonimbus Flash Cards Front](./assets/cumulonimbus/Course%20Page%20_%20Flash%20Cards%20-%20Front.png)
+![Cumulonimbus Flash Cards Back](./assets/cumulonimbus/Course%20Page%20_%20Flash%20Cards%20-%20Back.png)
+![Cumulonimbus Quizzes Overview](./assets/cumulonimbus/Course%20Page%20_%20Quizzes%20-%20View%20all.png)
+![Cumulonimbus Individual Quiz](./assets/cumulonimbus/Course%20Page%20_%20Quizzes%20-%20Individual%20Quiz%20(MCQ).png)
+
+</details>
+
+<details>
+<summary><strong>Lightweight Project Management Discord Bot</strong> - TypeScript </summary>
+
+- Discord bot for **simple project and task management**  
+- Implements **commands for creating tasks, tracking progress, and notifications**  
+- Focus on **automation, efficiency, and user-friendly interactions**  
+- Open source after completion of first MVP.
+
+</details>
