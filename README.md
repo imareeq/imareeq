@@ -61,6 +61,17 @@ I have a keen interest in UI/UX Design, Full Stack Development, and exploring lo
 </details>
 
 <details>
+<summary><strong>AI Armageddon (Prototype Game) - Day of AI Australia 2025 Submission</strong> - React, PhaserJS - [View Here 🔗](https://star-slayer-project.vercel.app/) </summary>
+
+- Developed in collaboration with [Briyan Biju](https://github.com/MundaneDragon)
+- **Story-driven game prototype** with interactive gameplay to educate on AI literacy
+- Focus on **mechanics, design, and systems architecture**  
+- Early-stage prototype: core concepts and structure implemented
+- View the public repository [here](https://github.com/imareeq/star_slayer_project)
+
+</details>
+
+<details>
   <summary><strong>Filtered String View</strong> — C++</summary>
 
 - Implemented a **filtered string view** providing a read-only view into existing character data  
@@ -81,16 +92,6 @@ I have a keen interest in UI/UX Design, Full Stack Development, and exploring lo
 </details>
 
 ## 🔨 Currently Building
-
-<details>
-<summary><strong>The Star Slayer Project — (Name TBD)</strong> - React, PhaserJS</summary>
-
-- Developing a **story-driven project/game** with interactive gameplay to educate on AI literacy
-- Focus on **mechanics, design, and systems architecture**  
-- Early-stage: core concepts and structure implemented
-- Public Repository after completion of first MVP.
-
-</details>
 
 <details>
 <summary><strong>Cumulonimbus — The Smart Study Buddy</strong> - Electron, React, TypeScript</summary>
