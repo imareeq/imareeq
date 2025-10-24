@@ -24,7 +24,10 @@ I have a keen interest in UI/UX Design, Full Stack Development, and exploring lo
 > **Note:** Some of these projects are not publicly available due to university policies, but access can be provided upon request.
 
 <details>
-  <summary><strong>Fialka Architects Website</strong> — NextJS Static Site, TailwindCSS — [View Here 🔗](https://www.fialkabd.com)</summary>
+  <summary>
+    <strong>Fialka Architects Website</strong> — NextJS Static Site, TailwindCSS — 
+    <a href="https://www.fialkabd.com" target="_blank">View Here 🔗</a>
+  </summary>
 
 - Built a fully responsive static website using **Next.js** and **TailwindCSS**
 - Implemented a clean UI/UX design for architecture portfolio
@@ -61,7 +64,10 @@ I have a keen interest in UI/UX Design, Full Stack Development, and exploring lo
 </details>
 
 <details>
-<summary><strong>AI Armageddon (Prototype Game) - Day of AI Australia 2025 Submission</strong> - React, PhaserJS - [View Here 🔗](https://star-slayer-project.vercel.app/) </summary>
+<summary>
+  <strong>AI Armageddon (Prototype Game) - Day of AI Australia 2025 Submission</strong> - React, PhaserJS -
+  <a href="https://star-slayer-project.vercel.app" target="_blank">View Here 🔗</a>
+</summary>
 
 - Developed in collaboration with [Briyan Biju](https://github.com/MundaneDragon)
 - **Story-driven game prototype** with interactive gameplay to educate on AI literacy
