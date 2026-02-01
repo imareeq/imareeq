@@ -78,6 +78,15 @@ I have a keen interest in UI/UX Design, Full Stack Development, and exploring lo
 </details>
 
 <details>
+  <summary><strong>Chip 8 Emulator</strong> — C++ - <a href="https://www.fialkabd.com](https://github.com/imareeq/chip-8-emulator" target="_blank">Github Repository 🔗</a></summary>
+
+- Developed a full-cycle Chip-8 emulator in C++ implementing the core instruction set (35 opcodes), virtual memory, the graphics rendering, and all other underlying functionalities.
+- Integrated SDL3 for hardware-accelerated graphics rendering and real-time keyboard input mapping.
+- Gained deep insight into the Fetch-Decode-Execute cycle and low-level memory management.
+
+</details>
+
+<details>
   <summary><strong>Filtered String View</strong> — C++</summary>
 
 - Implemented a **filtered string view** providing a read-only view into existing character data  
