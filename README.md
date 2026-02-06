@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Areeq Imran, a passionate, final year Computer Science student at UNSW Sydney.
+I’m Areeq Imran, a passionate programmer graduated from University of New South Wales.
 
 I have a keen interest in UI/UX Design, Full Stack Development, and exploring low-level programming through languages like C++ and Rust.
 
