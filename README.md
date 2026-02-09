@@ -10,7 +10,6 @@ I have a keen interest in UI/UX Design, Full Stack Development, and exploring lo
 * Python
 * C++
 * Rust
-* SQL (PostgreSQL)
 
 ### Frameworks
 * React
