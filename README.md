@@ -13,6 +13,8 @@ I have a keen interest in UI/UX Design, Full Stack Development, and exploring lo
 
 ### Frameworks
 * React
+* NextJS
+* Tanstack Start
 * Tailwind
 * Flask
 * Express
