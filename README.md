@@ -50,11 +50,8 @@ I’m Areeq Imran, and recently graduated software engineer from UNSW Sydney. I 
 ### UI Preview (Implementations)
 
 #### Login and Onboarding
+https://github.com/user-attachments/assets/c4d2572a-0819-458b-8029-8ce5d010858a
 
-<video width="700" controls>
-  <source src="./assets/ladder/Ladder - Login and Onboarding.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 #### Dashboard
 
