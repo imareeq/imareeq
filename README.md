@@ -123,6 +123,7 @@ https://github.com/user-attachments/assets/c4d2572a-0819-458b-8029-8ce5d010858a
   <a href="https://star-slayer-project.vercel.app" target="_blank">View Here 🔗</a>
 </summary>
 
+- Demo video [here](https://www.youtube.com/watch?v=X83Cm85O7lI)
 - Developed in collaboration with [Briyan Biju](https://github.com/MundaneDragon)
 - **Story-driven game prototype** with interactive gameplay to educate on AI literacy
 - Focus on **mechanics, design, and systems architecture**
