@@ -38,7 +38,7 @@ I’m Areeq Imran, a recent Software Engineering graduate from UNSW Sydney. I en
 ## Professional Experience
 
 <details>
-  <summary><strong>Lead Frontend Engineer - Ladder Inc</strong> - React, Tanstack Query, Tanstack Router, S3, Terraform, Cloudflare, Supabase, PostgreSQL</summary>
+  <summary><strong>Lead Frontend Engineer - Ladder Inc</strong> — React, Tanstack Query, Tanstack Router, S3, Terraform, Cloudflare, Supabase, PostgreSQL</summary>
 
 - Architected a scalable frontend using React, Tanstack Router and TanStack Query, optimizing the API-driven digital infrastructure by code-splitting, reducing API calls and improving data fetching strategies to significantly decrease latency.
 - Orchestrated cross-functional collaboration with backend teams to synchronize RESTful API schemas, optimize PostgreSQL database queries, and resolve production issues.
@@ -193,7 +193,7 @@ https://github.com/user-attachments/assets/c4d2572a-0819-458b-8029-8ce5d010858a
 </details>
 
 <details>
-  <summary><strong>RSheet - Concurrent Spreadsheet Server</strong> - Rust</summary>
+  <summary><strong>RSheet - Concurrent Spreadsheet Server</strong> — Rust</summary>
 
 - Architected and implemented a concurrent multi-client spreadsheet server supporting atomic get/set operations,
   dependency graphs, and background propagation across multi-layered cell formulas using Rust’s ownership
