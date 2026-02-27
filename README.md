@@ -1,6 +1,6 @@
 ## Hi there
 
-I’m Areeq Imran, and recently graduated software engineer from UNSW Sydney. I enjoy building scalable, performant, elegant, and user-friendly applications.
+I’m Areeq Imran, a recent Software Engineering graduate from UNSW Sydney. I enjoy building scalable, performant, elegant, and user-friendly applications.
 
 ## Technologies:
 
