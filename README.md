@@ -38,14 +38,13 @@ I’m Areeq Imran, a recent Software Engineering graduate from UNSW Sydney. I en
 ## Professional Experience
 
 <details>
-  <summary><strong>Lead Frontend Engineer - Ladder Inc</strong> — React, Tanstack Query, Tanstack Router, S3, Terraform, Cloudflare, Supabase, PostgreSQL</summary>
+  <summary><strong>Software Engineer - Ladder Inc</strong> — Express, React, Tanstack (Query/Router) S3, Terraform, Cloudflare, Supabase, PostgreSQL</summary>
 
-- Architected a scalable frontend using React, Tanstack Router and TanStack Query, optimizing the API-driven digital infrastructure by code-splitting, reducing API calls and improving data fetching strategies to significantly decrease latency.
-- Orchestrated cross-functional collaboration with backend teams to synchronize RESTful API schemas, optimize PostgreSQL database queries, and resolve production issues.
-- Established CI/CD pipelines and AWS deployment workflows with Terraform for automated environment releases (Dev/Staging/Prod), ensuring zero-downtime deployments and rollback capabilities.
+- Developed a scalable frontend using React and TanStack (Router/Query), optimizing data fetching strategies via code-splitting and caching to reduce latency across the application.
+- Automated infrastructure deployment with Terraform and AWS, setting up CI/CD pipelines for Dev, Staging, and Production environments to ensure reliable, zero-downtime releases.
 - Implemented comprehensive security measures including token-based authentication (PKCE), CSRF protection, and XSS prevention while leveraging Cloudflare for bot mitigation across authentication layers.
-- Translated Figma designs into accessible, reusable UI components using TailwindCSS and ShadCN, extending and customizing base components to maintain design consistency across the application.
-- Mentored two interns, overseeing task delegation and code reviews within sprint delivery timelines.
+- Contributed to backend architecture decisions including database schema design, authentication infrastructure selection, and migrating the development environment to HTTPS.
+- Served as Lead Frontend Engineer, managing task delegation and performing code reviews for two interns to maintain engineering standards within sprint timelines.
 
 ### UI Preview (Implementations)
 
