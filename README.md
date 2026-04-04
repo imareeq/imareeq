@@ -86,6 +86,19 @@ https://github.com/user-attachments/assets/c4d2572a-0819-458b-8029-8ce5d010858a
 
 <details>
   <summary>
+    <strong>Airtable Clone</strong> - Next.js, TypeScript, tRPC, Prisma, PostgreSQL, ShadCN - 
+    <a href="https://airtable-clone-ecru-psi.vercel.app" target="_blank">View Here (Google Sign in only) 🔗</a>
+  </summary>
+
+  - Architected a dynamic schema engine to model user-generated spreadsheets in PostgreSQL while enforcing end-to-end type safety and robust SQL injection prevention measures.
+  - Achieved a 50% reduction in bulk data insertion latency (from average 20s to 10s) for 100k+ rows by implementing optimized Prisma transactions and batch-processing strategies.
+  - Implemented high-performance fuzzy search using Trigram and GIN indices, supporting complex column-wise filtering and sorting across millions of rows without degradation.
+  - Developed a responsive spreadsheet UI featuring TanStack Table with row virtualization, hybrid infinite scrolling, and optimistic updates to ensure zero-lag UX.
+
+</details>
+
+<details>
+  <summary>
     <strong>Fialka Architects Website</strong> — NextJS Static Site, TailwindCSS — 
     <a href="https://www.fialkabd.com" target="_blank">View Here 🔗</a>
   </summary>
